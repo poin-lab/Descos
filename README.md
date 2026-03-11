@@ -38,3 +38,5 @@
 - [toggle] 버튼: 누르면 책상 상판이 일반 모습과 격자(Grid) 모습으로 전환됩니다.
 - [Export as Image] 버튼: 누르면 현재 화면이 이미지 파일로 컴퓨터에 저장됩니다.
 - [Login] 버튼: 눌러서 Google 계정으로 로그인하면, 작업을 저장하고 불러오는 기능을 사용할 수 있습니다.
+
+https://poin-lab.github.io/Descos/
